@@ -1,10 +1,10 @@
 
-# Slide content (copy into Google Slides / PowerPoint)
+
 
 Slide 1 — Title
 - Ema APM Take-Home Project
 - Next-Generation Agentic AI for Vehicle Insurance Claims Processing
-- Your name — Role — Date
+
 
 Slide 2 — Agentic Opportunities
 - FNOL: Auto-extract from voice/text/photos. Pre-fill forms.
