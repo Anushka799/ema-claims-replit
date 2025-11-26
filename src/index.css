@@ -1,0 +1,3 @@
+/* Minimal styles so the app looks decent without Tailwind */
+html,body,#root { height: 100%; margin: 0; padding: 0; }
+body { font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial; background: #f7fafc; }
